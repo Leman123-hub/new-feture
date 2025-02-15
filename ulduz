@@ -1,6 +1,0 @@
-for (var sutun = 1; sutun <= 5; sutun++) {
-    for (var setir = 1; setir <= sutun; setir++) {
-        document.write("*");
-    }
-    document.write("<br");
-}
